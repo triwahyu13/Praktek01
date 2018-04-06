@@ -18,5 +18,7 @@ public class JamtanganAksi {
         Wahyu.Warna="Hijau";
         Wahyu.Type="Analog";
         Wahyu.Harga=750000;
+        
+        Wahyu.cetakInfo();
     }
 }
