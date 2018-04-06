@@ -10,5 +10,19 @@ package praktek01;
  * @author Muxido
  */
 public class Jamtangan {
+    String Tenaga;
+    String Bahan;
+    String Warna;
+    String Type;
+    double Harga;
+    
+    void cetakInfo (){
+        System.out.println("Tenaga :"+Tenaga);
+        System.out.println("Bahan  :"+Bahan);
+        System.out.println("Warna  :"+Warna);
+        System.out.println("Type   :"+Type);
+        System.out.println("Harga  :"+Harga);
+        
+    }
     
 }
