@@ -11,6 +11,6 @@ package praktek01;
  */
 public class JamtanganAksi2 {
     public static void main(String[] args) {
-        
+        Jamtangan Rizwan = new Jamtangan();
     }
 }
