@@ -13,5 +13,10 @@ public class JamtanganAksi {
     public static void main(String[] args) {
         Jamtangan Wahyu = new Jamtangan();
         
+        Wahyu.Tenaga="Baterai";
+        Wahyu.Bahan="Karet";
+        Wahyu.Warna="Hijau";
+        Wahyu.Type="Analog";
+        Wahyu.Harga=750000;
     }
 }
