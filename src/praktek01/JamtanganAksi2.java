@@ -18,5 +18,7 @@ public class JamtanganAksi2 {
         Rizwan.Warna="Putih";
         Rizwan.Type="Digital";
         Rizwan.Harga=1500000;
+        
+        Rizwan.cetakInfo();
     }
 }
