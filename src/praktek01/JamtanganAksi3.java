@@ -18,5 +18,7 @@ public class JamtanganAksi3 {
         kiki.Warna="Hitam";
         kiki.Type="Digital";
         kiki.Harga=25000000;
+        
+        kiki.cetakInfo();
     }
 }
