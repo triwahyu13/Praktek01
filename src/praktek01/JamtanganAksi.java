@@ -11,6 +11,7 @@ package praktek01;
  */
 public class JamtanganAksi {
     public static void main(String[] args) {
+        Jamtangan Wahyu = new Jamtangan();
         
     }
 }
