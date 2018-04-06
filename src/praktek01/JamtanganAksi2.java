@@ -12,5 +12,11 @@ package praktek01;
 public class JamtanganAksi2 {
     public static void main(String[] args) {
         Jamtangan Rizwan = new Jamtangan();
+        
+        Rizwan.Tenaga="Surya";
+        Rizwan.Bahan="Kaca";
+        Rizwan.Warna="Putih";
+        Rizwan.Type="Digital";
+        Rizwan.Harga=1500000;
     }
 }
